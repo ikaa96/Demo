@@ -1,0 +1,5 @@
+
+
+git status
+git commit -m "treci commit demo2"
+git push origin main
